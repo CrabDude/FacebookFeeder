@@ -1,0 +1,11 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.37.3 clang-602.0.37)"
+options: "a68046937edfea792b0180997c2ea7d1"
+inputs: 
+- "/Users/crabdude/Dropbox/ios/Facebook/Facebook/StatusCell.swift"
+- "/Users/crabdude/Dropbox/ios/Facebook/Facebook/PhotoCell.swift"
+- "/Users/crabdude/Dropbox/ios/Facebook/Facebook/SettingsViewController.swift"
+- "/Users/crabdude/Dropbox/ios/Facebook/Facebook/LoginViewController.swift"
+- "/Users/crabdude/Dropbox/ios/Facebook/Facebook/SwiftyJSON.swift"
+- "/Users/crabdude/Dropbox/ios/Facebook/Facebook/AppDelegate.swift"
+- "/Users/crabdude/Dropbox/ios/Facebook/Facebook/SettingsCell.swift"
+- "/Users/crabdude/Dropbox/ios/Facebook/Facebook/MainViewController.swift"
